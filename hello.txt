@@ -1,0 +1,14 @@
+
+<<<<<<< HEAD
+ok,this is difference
+
+hello  branch dev.
+zhellimeixiugai
+=======
+ok,thdsfsdis is difference
+
+hello  branch kkkf.
+4541dsfd231634
+>>>>>>> 118f159c29509c6a3dced3c472dd490a379455d5
+
+ok,change the file
